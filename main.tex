@@ -1,0 +1,67 @@
+\documentclass{tufte-book}
+
+\title{Role of Algorithms in Computing}
+
+\author[Role of Algorithms]{notes by dep}
+
+
+%\geometry{showframe} % display margins for debugging page layout
+\nobibliography{true}
+\usepackage{minted}
+\usepackage{graphicx} % allow embedded images
+  \setkeys{Gin}{width=\linewidth,totalheight=\textheight,keepaspectratio} % set image keys if you're using graphicx
+  \graphicspath{{images/}} % set of paths to search for images
+\usepackage{amsmath}  % extended mathematics
+\usepackage{booktabs} % book-quality tables
+\usepackage{units}    % non-stacked fractions and better unit spacing
+\usepackage{multicol} % multiple column layout facilities
+\usepackage{lipsum}   % filler text
+\usepackage{fancyvrb} % extended verbatim environments
+  \fvset{fontsize=\normalsize}% default font size for fancy-verbatim environments
+
+% Standardize command font styles and environments
+\newcommand{\doccmd}[1]{\texttt{\textbackslash#1}}% command name -- adds backslash automatically
+\newcommand{\docopt}[1]{\ensuremath{\langle}\textrm{\textit{#1}}\ensuremath{\rangle}}% optional command argument
+\newcommand{\docarg}[1]{\textrm{\textit{#1}}}% (required) command argument
+\newcommand{\docenv}[1]{\textsf{#1}}% environment name
+\newcommand{\docpkg}[1]{\texttt{#1}}% package name
+\newcommand{\doccls}[1]{\texttt{#1}}% document class name
+\newcommand{\docclsopt}[1]{\texttt{#1}}% document class option name
+\newenvironment{docspec}{\begin{quote}\noindent}{\end{quote}}% command specification environment
+
+\begin{document}
+
+% \maketitle % this prints the handout title, author, and date
+
+
+%\printclassoptions
+
+% Paragraph to start
+
+% \section{This is a section}\label{sec:Section 1}
+% \subsection{this is a subsection}\label{sec:subsection}
+% I changed this now i changed it again now I am changing it again
+
+% \sidenote{This is a side note.}
+
+% \section{Testing out minted}
+% \begin{minted}{cpp}
+
+% int main() {
+%   cout << "Hello World" << endl;
+%   return 0;
+% }
+% \end{minted}
+
+\section{Role of Algorithms}
+\subsection{General Vocab}
+\quad An \underline{algorithm} is a computational procedure that takes input and produces an output. It is a sequential action of computational steps that transforms input to output. An example of this in use would be a sorting problem. We are given an input of \textit{unsorted} values and we need to produce an ouput of sorted values; for this we use an algorithm.\sidenote{\underline{Permutation} - synonym for reordering in this case} A \textit{correct algorithm} is said to be one if for every input case\sidenote{\textit{Case} can also be called an instance} it returns the correct output. A \underline{data structure} is a way to store and organize data in order to facilitate access and modifications. There are a variety of different data structures as one cannot fulfill all types of problems. 
+\\
+\newthought{There is two main things when thinking of algorithms: \textit{efficiency} and \textit{memory}}.  
+
+
+
+
+
+
+\end{document}

@@ -2,21 +2,21 @@ PWD c:\Users\dpkea\OneDrive\Desktop\dsa-notes\latex
 INPUT C:\Users\dpkea\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
 INPUT c:\Users\dpkea\OneDrive\Desktop\dsa-notes\latex\prereq-math.tex
 OUTPUT prereq-math.log
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-handout.cls
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-common.def
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-common.def
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-common.def
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\tufte-latex\tufte-common.def
+INPUT .\tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT tufte-book.cls
+INPUT .\tufte-book.cls
+INPUT tufte-book.cls
+INPUT .\tufte-common.def
+INPUT tufte-common.def
+INPUT .\tufte-common.def
+INPUT tufte-common.def
 INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\xkeyval\xkeyval.sty
@@ -210,21 +210,21 @@ INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifxetex.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
-INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\book.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\bk10.clo
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
 INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
@@ -801,6 +801,115 @@ INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\tools\multicol.sty
 INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\subfig\subfig.sty
 INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\subfig\subfig.sty
+INPUT .\prereq-math.bbl
+INPUT prereq-math.bbl
+INPUT .\prereq-math.bbl
+INPUT prereq-math.bbl
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\minted\minted.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\kvoptions\kvoptions.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fvextra\fvextra.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\upquote\upquote.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ifthen.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\calc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\shellesc.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\ifplatform\ifplatform.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\pdftexcmds\pdftexcmds.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\etoolbox\etoolbox.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\xstring\xstring.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\generic\xstring\xstring.tex
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lineno\lineno.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\framed\framed.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\generic\catchfile\catchfile.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
+INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\float\float.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
 INPUT C:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty
@@ -981,235 +1090,4 @@ INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\lipsum\lipsum.ltd.tex
 INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\fancyvrb\fancyvrb.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty
-INPUT .\prereq-math.aux
-INPUT prereq-math.aux
-INPUT prereq-math.aux
-OUTPUT prereq-math.aux
-OUTPUT prereq-math.out
-OUTPUT prereq-math.pdf
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\context\base\mkii\supp-pdf.mkii
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\epstopdf-pkg\epstopdf-base.sty
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\tex\latex\00miktex\epstopdf-sys.cfg
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1pplx.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omlzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omszplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omszplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omszplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omszplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\omxzplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\ot1zplm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc9d.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\bera\t1fvm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\bera\t1fvm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\bera\t1fvm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\bera\t1fvm.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7m.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7y.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7v.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\zplmr7t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8t.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT C:\Users\dpkea\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Program Files\MiKTeX\fonts\enc\dvips\base\8r.enc
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplrc9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\bera\fvmr8t.vf
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9d.vf
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\bera\fvmr8t.vf
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\bera\fvmr8t.vf
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\bera\fvmr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\mathpazo\zplmr7y.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmr.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\mathpazo\zplmr7y.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1phv.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1phv.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1phv.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1phv.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\helvetic\phvr8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb9d.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\helvetic\phvr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\helvetic\phvr8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplb9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplb8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmb.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplbj8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\mathpazo\zplmr7m.vf
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\tfm\public\mathpazo\fplmri.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri8r.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\mathpazo\zplmr7t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplri9d.tfm
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\tex\latex\psnfss\t1ppl.fd
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr8t.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrc8r.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplr8t.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplr9d.tfm
-INPUT .\prereq-math.bbl
-INPUT prereq-math.bbl
-INPUT .\prereq-math.bbl
-INPUT prereq-math.bbl
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\vf\public\mathpazo\zplmr7y.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
-INPUT C:\Program Files\MiKTeX\fonts\vf\adobe\palatino\pplri9d.vf
-INPUT C:\Program Files\MiKTeX\fonts\tfm\adobe\palatino\pplrij8r.tfm
-INPUT prereq-math.aux
-INPUT .\prereq-math.out
-INPUT .\prereq-math.out
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\mathpazo\fplmri.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\mathpazo\fplmri.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrc8a.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\public\fpl\fplrij8a.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\bera\fvmr8a.pfb
-INPUT C:\Users\dpkea\AppData\Roaming\MiKTeX\fonts\type1\bera\fvmr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\helvetic\uhvr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplb8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplr8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
-INPUT C:\Program Files\MiKTeX\fonts\type1\urw\palatino\uplri8a.pfb
+INPUT C:\Program Files\MiKTeX\tex\latex\base\textcomp.sty

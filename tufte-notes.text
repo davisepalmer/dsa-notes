@@ -1,0 +1,39 @@
+Commands for tufte handout
+
+-------
+Make sure to have the following 
+-------
+
+
+GENERAL STRUCTURE
+
+\section for main section
+\subsection for subsection
+\subsubsection for even smaller section
+
+\newthought first few words in small caps 
+
+MARGIN NOTES
+
+\sidenote is most important command, puts text in margin
+    \sidenote[number][offset]{text}
+    the number and offset are optional
+
+\marginnote{text} puts text in margin, very similar to sidenote
+
+\begin{marginfigure}
+    \includegraphics{filename}
+    \caption{caption}
+\end{marginfigure}
+
+this above block of code will put the figure in the margin
+
+\begin{margintable}
+\end{margintable}
+
+this is similar to margin figure just with a table
+
+TYPEFACES
+
+\allcaps for all caps
+\smallcaps for small caps
